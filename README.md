@@ -1,2 +1,2 @@
-# liklihoodWeight
+# likelihoodWeight
 Probability reasoning
